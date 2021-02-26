@@ -1,5 +1,5 @@
 FROM fedora:latest
-LABEL maintainer "Carlos Guidugli <guidugli@protonmail.com>"
+LABEL maintainer "Carlos Guidugli <guidugli@gmail.com>"
 
 ARG PUID=1001
 ARG PGID=1001
